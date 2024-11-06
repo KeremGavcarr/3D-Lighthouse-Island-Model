@@ -22,7 +22,8 @@ This repository contains a 3D model of a lighthouse situated on an island with s
 
 ## License
 
-This model is free to use for personal or educational projects. Please provide appropriate credit to the creator if used in public or commercial projects.
+You are free to use this model for personal or educational projects. If you use it in public or commercial projects, please credit me as the creator.
+
 
 ---
 
